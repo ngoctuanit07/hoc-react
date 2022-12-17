@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/hoc-react/static/css/main.b18aad35.css",
+    "main.js": "/hoc-react/static/js/main.647a283a.js",
+    "static/js/787.28cb0dcd.chunk.js": "/hoc-react/static/js/787.28cb0dcd.chunk.js",
+    "static/media/flat-lay-tray-with-vientamese-food.png": "/hoc-react/static/media/flat-lay-tray-with-vientamese-food.f9f69fccaf4c51260bef.png",
+    "index.html": "/hoc-react/index.html",
+    "main.b18aad35.css.map": "/hoc-react/static/css/main.b18aad35.css.map",
+    "main.647a283a.js.map": "/hoc-react/static/js/main.647a283a.js.map",
+    "787.28cb0dcd.chunk.js.map": "/hoc-react/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b18aad35.css",
+    "static/js/main.647a283a.js"
+  ]
+}
