@@ -1,0 +1,28 @@
+@media(max-width:1000px){
+    .home{
+        display: none;
+    }
+    .main-thucdon-pc{
+        display: none;
+    }
+   
+    .thongtingiaohang-pc{
+        display: none;
+    }
+}
+@media(min-width:1001px){
+    .home-mobile{
+        display: none;
+    }
+   .thucdon-mobile{
+    display: none;
+   }
+   .thongtingiaohang-mobile{
+    display: none;
+   }
+}
+@media(max-width:330px){
+    .content-home-mobile{
+        top: 5%;
+    }
+}
